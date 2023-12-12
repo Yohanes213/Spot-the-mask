@@ -2,6 +2,8 @@
 
 This project utilizes the EfficientNetB0 model for accurate mask detection in images.
 
+![Uploading thumb_6ba06cc2-d1fb-43ea-a30a-44683210b954 (1).png…]()
+
 ## Data
 The data be found [here](https://zindi.africa/competitions/spot-the-mask/data)
 
