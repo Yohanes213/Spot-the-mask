@@ -2,6 +2,10 @@
 
 This project utilizes the EfficientNetB0 model for accurate mask detection in images.
 
+## Data
+The data be found [here](https://zindi.africa/competitions/spot-the-mask/data)
+
+
 ## Installation
 `
 Install required libraries:
@@ -20,6 +24,9 @@ Clone this repository:
 2. Modify the train_labels.csv file with the corresponding filenames and labels (0 for mask, 1 for no mask).
 3. Run the train.py script to train the model:
 `python train.py`
+
+## Model
+Model can found [here] (https://drive.google.com/file/d/11DKmLbmXOuxurH48F1HVhtDqKEAokBli/view?usp=sharing)
 
 ## Results
 The trained model achieves an accuracy of 97.3% on the test set and a loss of 0.080. The confusion matrix shows:
