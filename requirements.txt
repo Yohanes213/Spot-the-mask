@@ -1,0 +1,12 @@
+tensorflow>=2.0.0
+keras>=2.4.0
+pandas
+os
+matplotlib
+numpy
+shutil
+glob
+keras-preprocessing
+efficientnet
+sklearn
+cv2
