@@ -26,7 +26,7 @@ Clone this repository:
 `python train.py`
 
 ## Model
-Model can found [here] (https://drive.google.com/file/d/11DKmLbmXOuxurH48F1HVhtDqKEAokBli/view?usp=sharing)
+Model can found [here](https://drive.google.com/file/d/11DKmLbmXOuxurH48F1HVhtDqKEAokBli/view?usp=sharing)
 
 ## Results
 The trained model achieves an accuracy of 97.3% on the test set and a loss of 0.080. The confusion matrix shows:
