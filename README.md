@@ -26,6 +26,7 @@ Clone this repository:
 1. Download the dataset containing masked and unmasked individuals.
 2. Modify the train_labels.csv file with the corresponding filenames and labels (0 for mask, 1 for no mask).
 3. Run the train.py script to train the model:
+   
   `python ./src/models/train.py`
 
 ## Model
