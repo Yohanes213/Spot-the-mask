@@ -19,13 +19,14 @@ Download the EfficientNetB0 weights:
 `wget https://github.com/google/efficientnet/releases/download/v0.0/efficientnetb0_weights_tf_dim_ordering_tf_kernels_notop.h5`
 
 Clone this repository:
+
 `git clone https://github.com/Yohanes213/Spot-the-mask.git`
 
 ## Usage
 1. Download the dataset containing masked and unmasked individuals.
 2. Modify the train_labels.csv file with the corresponding filenames and labels (0 for mask, 1 for no mask).
 3. Run the train.py script to train the model:
-`python train.py`
+  `python ./src/models/train.py`
 
 ## Model
 Model can found [here](https://drive.google.com/file/d/11DKmLbmXOuxurH48F1HVhtDqKEAokBli/view?usp=sharing)
